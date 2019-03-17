@@ -7,7 +7,7 @@ https://velopert.com/3503
 ## 결과물
 오늘의 우주 사진
 
-https://zwan2.github.io/react-todo/
+https://zwan2.github.io/react-nasa-apod/
 
 ## 기능 구현
 - 오늘의 우주 사진(API) 보여주기
